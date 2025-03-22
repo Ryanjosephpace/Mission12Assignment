@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ryanj\\OneDrive\\Desktop\\Mission11Assignment\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{340FDA31-80FC-40FA-9EAF-4C9BB21AFCD9}|Mission11Assignment.API\\Mission11Assignment.API.csproj|c:\\users\\ryanj\\onedrive\\desktop\\mission11assignment\\backend\\mission11assignment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340FDA31-80FC-40FA-9EAF-4C9BB21AFCD9}|Mission11Assignment.API\\Mission11Assignment.API.csproj|solutionrelative:mission11assignment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340FDA31-80FC-40FA-9EAF-4C9BB21AFCD9}|Mission11Assignment.API\\Mission11Assignment.API.csproj|c:\\users\\ryanj\\onedrive\\desktop\\mission11assignment\\backend\\mission11assignment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{340FDA31-80FC-40FA-9EAF-4C9BB21AFCD9}|Mission11Assignment.API\\Mission11Assignment.API.csproj|solutionrelative:mission11assignment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340FDA31-80FC-40FA-9EAF-4C9BB21AFCD9}|Mission11Assignment.API\\Mission11Assignment.API.csproj|c:\\users\\ryanj\\onedrive\\desktop\\mission11assignment\\backend\\mission11assignment.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340FDA31-80FC-40FA-9EAF-4C9BB21AFCD9}|Mission11Assignment.API\\Mission11Assignment.API.csproj|solutionrelative:mission11assignment.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340FDA31-80FC-40FA-9EAF-4C9BB21AFCD9}|Mission11Assignment.API\\Mission11Assignment.API.csproj|c:\\users\\ryanj\\onedrive\\desktop\\mission11assignment\\backend\\mission11assignment.api\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340FDA31-80FC-40FA-9EAF-4C9BB21AFCD9}|Mission11Assignment.API\\Mission11Assignment.API.csproj|solutionrelative:mission11assignment.api\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340FDA31-80FC-40FA-9EAF-4C9BB21AFCD9}|Mission11Assignment.API\\Mission11Assignment.API.csproj|c:\\users\\ryanj\\onedrive\\desktop\\mission11assignment\\backend\\mission11assignment.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340FDA31-80FC-40FA-9EAF-4C9BB21AFCD9}|Mission11Assignment.API\\Mission11Assignment.API.csproj|solutionrelative:mission11assignment.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\ryanj\\OneDrive\\Desktop\\Mission11Assignment\\backend\\Mission11Assignment.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Mission11Assignment.API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\ryanj\\OneDrive\\Desktop\\Mission11Assignment\\backend\\Mission11Assignment.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Mission11Assignment.API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:31:44.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ryanj\\OneDrive\\Desktop\\Mission11Assignment\\backend\\Mission11Assignment.API\\Program.cs",
+              "RelativeDocumentMoniker": "Mission11Assignment.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ryanj\\OneDrive\\Desktop\\Mission11Assignment\\backend\\Mission11Assignment.API\\Program.cs",
+              "RelativeToolTip": "Mission11Assignment.API\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:29:58.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ryanj\\OneDrive\\Desktop\\Mission11Assignment\\backend\\Mission11Assignment.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Mission11Assignment.API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ryanj\\OneDrive\\Desktop\\Mission11Assignment\\backend\\Mission11Assignment.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Mission11Assignment.API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:25:57.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ryanj\\OneDrive\\Desktop\\Mission11Assignment\\backend\\Mission11Assignment.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Mission11Assignment.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ryanj\\OneDrive\\Desktop\\Mission11Assignment\\backend\\Mission11Assignment.API\\appsettings.json",
+              "RelativeToolTip": "Mission11Assignment.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T09:16:20.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ryanj\\OneDrive\\Desktop\\Mission11Assignment\\backend\\Mission11Assignment.API\\Data\\Book.cs",
+              "RelativeDocumentMoniker": "Mission11Assignment.API\\Data\\Book.cs",
+              "ToolTip": "C:\\Users\\ryanj\\OneDrive\\Desktop\\Mission11Assignment\\backend\\Mission11Assignment.API\\Data\\Book.cs",
+              "RelativeToolTip": "Mission11Assignment.API\\Data\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:14:01.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
