@@ -18,9 +18,39 @@ namespace Mission11Assignment.API.Controllers
 
         // Get all books
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Book>>> GetBooks()
+        public async Task<ActionResult> GetBooks(
+    string? category,
+    int page = 1,
+    int pageSize = 5,
+    string sortBy = "title",
+    bool ascending = true)
         {
-            return await _context.Books.ToListAsync();
+            var query = _context.Books.AsQueryable();
+
+            // Optional filtering
+            if (!string.IsNullOrEmpty(category))
+            {
+                query = query.Where(b => b.Category == category);
+            }
+
+            // Optional sorting (only allow "title" for now)
+            query = ascending
+                ? query.OrderBy(b => b.Title)
+                : query.OrderByDescending(b => b.Title);
+
+            var totalBooks = await query.CountAsync();
+
+            // Pagination
+            var books = await query
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .ToListAsync();
+
+            return Ok(new
+            {
+                Data = books,
+                TotalCount = totalBooks
+            });
         }
     }
 }
