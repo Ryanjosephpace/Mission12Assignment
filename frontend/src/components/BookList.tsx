@@ -12,6 +12,8 @@ import {
 } from 'react-bootstrap';
 import { useCart } from '../context/CartContext';
 import { useNavigate } from 'react-router-dom';
+const API_BASE_URL = 'https://mission13assignment-cjdwcphphsc3b8eh.eastus-01.azurewebsites.net/api';
+
 
 interface Book {
   bookID: number;
@@ -38,7 +40,7 @@ const BookList = () => {
   const navigate = useNavigate();
 
   const fetchBooks = () => {
-    axios.get('http://localhost:5074/api/books', {
+    axios.get(`${API_BASE_URL}/Books`, {
       params: {
         page: currentPage,
         pageSize: resultsPerPage,
@@ -54,7 +56,7 @@ const BookList = () => {
   };
 
   const fetchCategories = () => {
-    axios.get('http://localhost:5074/api/books')
+    axios.get(`${API_BASE_URL}/Books`)
       .then((res) => {
         const categoriesRaw = (res.data.data as Book[]).map((book) => book.category);
         const uniqueCategories = [...new Set(categoriesRaw)];
@@ -70,6 +72,20 @@ const BookList = () => {
   useEffect(() => {
     fetchBooks();
   }, [currentPage, resultsPerPage, sortOrder, category]);
+
+  const handleDelete = async (id: number) => {
+    if (!window.confirm("Are you sure you want to delete this book?")) return;
+  
+    try {
+      await axios.delete(`https://mission13assignment-cjdwcphphsc3b8eh.eastus-01.azurewebsites.net/api/Books/${id}`);
+      alert("Book deleted successfully!");
+      fetchBooks(); // 🔁 Refresh book list
+    } catch (err) {
+      console.error("Error deleting book:", err);
+      alert("Failed to delete book.");
+    }
+  };
+  
 
   return (
     <Container className="mt-4">
@@ -158,6 +174,7 @@ const BookList = () => {
                 <th>Pages</th>
                 <th>Price</th>
                 <th>Add</th>
+                <th>Actions</th>
               </tr>
             </thead>
             <tbody>
@@ -190,6 +207,10 @@ const BookList = () => {
                         Add to Cart
                       </Button>
                     </OverlayTrigger>
+                  </td>
+                  <td>
+                    <Button variant="warning" size="sm" className="me-2" onClick={() => navigate(`/editbook/${book.bookID}`)}>Edit</Button>
+                    <Button variant="danger" size="sm" onClick={() => handleDelete(book.bookID)}>Delete</Button>
                   </td>
                 </tr>
               ))}
