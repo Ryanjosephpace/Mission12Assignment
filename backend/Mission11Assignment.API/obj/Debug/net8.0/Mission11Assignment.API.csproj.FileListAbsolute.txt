@@ -135,3 +135,4 @@ C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.
 C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\obj\Debug\net8.0\Mission11Assignment.API.sourcelink.json
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\bin\Debug\net8.0\Bookstore.sqlite
