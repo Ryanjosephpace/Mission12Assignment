@@ -136,3 +136,9 @@ C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.
 C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\obj\Release\net8.0\Mission11Assignment.API.pdb
 C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\obj\Release\net8.0\Mission11Assignment.API.genruntimeconfig.cache
 C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\obj\Release\net8.0\ref\Mission11Assignment.API.dll
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\bin\Release\net8.0\publish\web.config
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\bin\Release\net8.0\publish\appsettings.json
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\bin\Release\net8.0\publish\Mission11Assignment.API.deps.json
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\bin\Release\net8.0\publish\Mission11Assignment.API.runtimeconfig.json
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\bin\Release\net8.0\publish\Mission11Assignment.API.staticwebassets.endpoints.json

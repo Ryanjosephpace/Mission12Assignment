@@ -12,7 +12,7 @@ import {
 } from 'react-bootstrap';
 import { useCart } from '../context/CartContext';
 import { useNavigate } from 'react-router-dom';
-const API_BASE_URL = 'https://mission13assignment-cjdwcphphsc3b8eh.eastus-01.azurewebsites.net/api';
+const API_BASE_URL = 'https://mission13assignmentproject-g6ggdzaee7dwhugz.eastus-01.azurewebsites.net/api';
 
 
 interface Book {

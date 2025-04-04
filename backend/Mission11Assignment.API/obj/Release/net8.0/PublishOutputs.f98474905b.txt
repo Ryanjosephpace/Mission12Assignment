@@ -1,6 +1,12 @@
 C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\publish\Mission11Assignment.API.exe
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\publish\publish\web.config
 C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\publish\appsettings.Development.json
 C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\publish\appsettings.json
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\publish\publish\appsettings.Development.json
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\publish\publish\appsettings.json
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\publish\publish\Mission11Assignment.API.deps.json
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\publish\publish\Mission11Assignment.API.runtimeconfig.json
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\publish\publish\Mission11Assignment.API.staticwebassets.endpoints.json
 C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\publish\Bookstore.sqlite
 C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\publish\Mission11Assignment.API.dll
 C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\publish\Mission11Assignment.API.runtimeconfig.json
