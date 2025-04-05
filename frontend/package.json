@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
+    "postbuild": "node -e \"require('fs').copyFileSync('public/staticwebapp.config.json', 'dist/staticwebapp.config.json')\"",
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -34,3 +35,4 @@
     "vite-plugin-static-copy": "^2.3.0"
   }
 }
+
