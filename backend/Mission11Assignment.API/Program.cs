@@ -26,7 +26,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReactApp", policy =>
     {
-        policy.WithOrigins("http://localhost:5173", 'https://green-cliff-0e48e241e.6.azurestaticapps.net')
+        policy.WithOrigins("http://localhost:5173", "https://green-cliff-0e48e241e.6.azurestaticapps.net")
               .AllowAnyMethod()
               .AllowAnyHeader();
     });

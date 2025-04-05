@@ -142,3 +142,9 @@ C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.
 C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\bin\Debug\net8.0\publish\Mission11Assignment.API.deps.json
 C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\bin\Debug\net8.0\publish\Mission11Assignment.API.runtimeconfig.json
 C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\bin\Debug\net8.0\publish\Mission11Assignment.API.staticwebassets.endpoints.json
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\bin\Debug\net8.0\publish\publish\web.config
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\bin\Debug\net8.0\publish\publish\appsettings.Development.json
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\bin\Debug\net8.0\publish\publish\appsettings.json
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\bin\Debug\net8.0\publish\publish\Mission11Assignment.API.deps.json
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\bin\Debug\net8.0\publish\publish\Mission11Assignment.API.runtimeconfig.json
+C:\Users\ryanj\OneDrive\Desktop\Mission11Assignment\backend\Mission11Assignment.API\bin\Debug\net8.0\publish\publish\Mission11Assignment.API.staticwebassets.endpoints.json
